@@ -1,0 +1,106 @@
+body
+{
+    background-color: rgb(252, 237, 231);
+}
+p
+{
+    font-family: 'Lemonada', cursive;
+    text-align: center;
+    font-size: small;
+    color:saddlebrown;
+}
+figcaption
+{
+   font-family: 'Yusei Magic', sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    color:saddlebrown;
+}
+h1
+{
+    font-family: 'Playball', cursive;
+    font-size: 80px;
+    color: rgb(189, 98, 62);
+}
+h2
+{
+    font-family: 'Yusei Magic', sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    color:saddlebrown;
+}
+marquee 
+{
+    font-family: 'Great Vibes', cursive;
+    font-size: 40px;
+    color: rosybrown;
+}
+tr
+{
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    font-size: small;
+    color:saddlebrown;
+}
+li
+{
+    font-family: 'Patua One', cursive;
+    text-align: center;
+    font-size: medium;
+    color:saddlebrown;
+}
+div
+{
+    font-family: 'Gaegu', cursive;
+    text-align: center;
+    font-size: medium;
+    color:saddlebrown;
+}
+th
+{
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    font-size: x-large;
+    background-color:rgb(211, 175, 166);
+    color:whitesmoke;
+}
+td
+{
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    font-size: x-large;
+    background-color: rgb(211, 175, 166);
+    color:whitesmoke; 
+}
+iframe 
+{
+    width: 80%;
+    height: 80%
+}
+p.normal {
+   font-weight: normal;
+ }
+ 
+ p.light {
+   font-weight: lighter;
+ }
+ 
+ p.thick {
+   font-weight: bold;
+ }
+ 
+ p.thicker {
+   font-weight: 900;
+ }
+ a:link, a:visited 
+ {
+ color:Purple;
+ background-color:#ff00bf;
+ padding:15px;
+ text-align:center;
+ text-decoration:pink;
+ display:inline-block;
+ border-radius:25px;
+ }
+
+
